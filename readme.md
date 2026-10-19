@@ -16,6 +16,8 @@ khusus untuk **Ilmu Informatika UKDC** - Universitas Katolik Darma Cendika.
 | No | Perayaan | Tanggal | Command |
 |----|----------|---------|---------|
 | 1 | Tahun Baru 2026 | 1 Januari 2026 | `tahunbaru` |
+| 1 | Tahu Tek | 1 Januari 2026 | `tahutek` |
+
 
 > **Catatan:** Perayaan bisa ditambahkan melalui file `config.py`
 
