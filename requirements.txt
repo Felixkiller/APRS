@@ -1,0 +1,6 @@
+# APRS Bot - Ilmu Informatika UKDC
+# Requirements
+
+aprslib>=0.7.2
+Pillow>=10.0.0
+tzdata>=2024.1
